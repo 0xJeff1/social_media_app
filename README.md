@@ -1,1 +1,1 @@
-# twitter_clone
+# social media_clone
